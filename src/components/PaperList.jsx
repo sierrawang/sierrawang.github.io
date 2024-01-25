@@ -21,7 +21,7 @@ export const PaperList = () => {
             />
             <Paper
                 authors={"A. Malik*, J. Woodrow*, B. Capoor, T. Jefferson, M. Li, S. Wang, P. Wei, D. Demszky, J. Langer-Osuna, J. Zelenski, M. Sahami, C. Piech"}
-                title={"Code in Place 2023: Understanding learning and teaching at scale through a massive global classroom"}
+                title={"Code in Place 2023: Understanding Learning and Teaching at Scale through a Massive Global Classroom"}
                 picUrl={"codeinplace_pic.jpg"}
                 pdfUrl={'https://piechlab.stanford.edu/assets/papers/codeinplace2023.pdf'}
             />
