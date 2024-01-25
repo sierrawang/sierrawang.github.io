@@ -8,7 +8,7 @@
 
   color-scheme: light dark;
   color: black;
-  background-color: #e8e4e4;
+  background-color: white;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -38,18 +38,13 @@
   flex-wrap: wrap;
 }
 
-
-
-
-
-
 .paper {
   position: relative;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  max-width: 340px;
+  width: 100%;
   margin: 1rem;
   padding: 1rem;
   border-radius: 1rem;
