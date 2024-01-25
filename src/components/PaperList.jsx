@@ -10,22 +10,20 @@ export const PaperList = () => {
                 title={"A Large Scale RCT on Effective Error Messages in CS1"}
                 conference={"SIGCSE 2024"}
                 award={"Best Paper Award"}
-                picUrl={"paper1.png"}
+                picUrl={"error_messages_pic.png"}
              />
             <Paper
-                authors={"S. Wang, J. Mitchell, C. Piech"}
-                title={"A Large Scale RCT on Effective Error Messages in CS1"}
+                authors={"S. Wang, J. Mitchell, N. Haber, C. Piech"}
+                title={"Math IDE: A Platform for Creating with Math"}
                 conference={"SIGCSE 2024"}
-                award={"Best Paper Award"}
-                picUrl={"paper1.png"}
+                picUrl={"math_pic.png"}
              />
-
             <Paper
-                authors={"S. Wang, J. Mitchell, C. Piech"}
-                title={"A Large Scale RCT on Effective Error Messages in CS1"}
-                conference={"SIGCSE 2024"}
-                award={"Best Paper Award"}
-                picUrl={"paper1.png"}
+                authors={"S. Wang, F. Bakir, T. Ekaireb, J. Pearson, C. Krintz, R. Wolski"}
+                title={"MSDBench: Understanding the Performance Impact of Isolation Domains on Microservice-based IoT Deployments"}
+                conference={"Bench 2022"}
+                award={"Tony Hey Best Student Paper Award"}
+                picUrl={"microservices_pic.png"}
              />
         </div>
     )
