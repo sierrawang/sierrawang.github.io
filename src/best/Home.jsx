@@ -11,9 +11,9 @@ export const Home = ({setIsDungeon}) => {
         <Header setIsDungeon={setIsDungeon}/>
         <About/>
         <hr/>
-        <Teaching/>
-        <hr/>
         <PaperList/>
+        <hr/>
+        <Teaching/>
 
         </div>
     </div>

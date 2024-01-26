@@ -31,7 +31,7 @@ export const Header = ({setIsDungeon}) => {
             <div style={containerStyle}>
                 <div style={textStyle}>
                     <h1 style={{ marginBottom: "5px" }}>Sierra Wang</h1>
-                    <h2 style={headerStyle}>Ph.D Student at Stanford University</h2>
+                    <h2 style={headerStyle}>PhD Student at Stanford University</h2>
                     <h3 style={headerStyle}>sierraw /at/ stanford.edu</h3>
                     <div style={{ display: "flex", flexDirection: "row" }}>
                         <a target="_blank" rel="noreferrer" href="https://github.com/sierrawang" aria-label="Github Link" >
